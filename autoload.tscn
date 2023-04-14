@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dm3n4vkyk8q4m"]
+
+[ext_resource type="Texture2D" uid="uid://o8tghao1fbyd" path="res://gex___3do___japanese_cover_art_by_paperbandicoot_ddc8jac-pre.png" id="1_n1r2m"]
+
+[node name="autoload" type="Node2D"]
+
+[node name="Gex3DoJapaneseCoverArtByPaperbandicootDdc8Jac-pre" type="Sprite2D" parent="."]
+position = Vector2(886, 327)
+scale = Vector2(0.512748, 0.512748)
+texture = ExtResource("1_n1r2m")
